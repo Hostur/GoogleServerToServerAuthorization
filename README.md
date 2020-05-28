@@ -3,8 +3,8 @@
 If you are creating a multiplayer game for a mobile market and you want to sell anything in it than mayby you will face a fact that your inapp purchases should be validated on your server backend side.
 If your game monetization is based on inapps and you want keep your game save from market exploits you need to validate each purchase on the server side to keep appropriate items/currencies state on your user-storage side.
 
-After a days of research and going through a couple of tutorials and a tons of google documentation I finally achieve what I'v needed.
-To keep if for myself and others I'll describe here how I'v done it.
+After a days of research and going through a couple of tutorials and a tons of google documentation I finally achieved what I needed.
+To keep if for myself and others I'll describe here how I achieved it.
 
 To call google's api with appropriate authorization you will find a lot of information about OAuth2 authorization with generating refresh_token that will let you generate access_token that should be used in 
 http authorization header to make google api calls by a server. In my case it doesn't work. What I'v receive was always 403 with information about not linked application. The problem is that you need to bind authorization data 
