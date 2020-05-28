@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.AndroidPublisher.v3" Version="1.45.0.1963" />
+    <PackageReference Include="Google.Apis.Oauth2.v2" Version="1.45.0.1869" />
+  </ItemGroup>
+
+</Project>

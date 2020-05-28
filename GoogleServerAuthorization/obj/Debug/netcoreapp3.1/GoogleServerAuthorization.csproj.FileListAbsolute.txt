@@ -1,0 +1,5 @@
+C:\Users\Filip\source\repos\GoogleServerAuthorization\GoogleServerAuthorization\bin\Debug\netcoreapp3.1\GoogleServerAuthorization.deps.json
+C:\Users\Filip\source\repos\GoogleServerAuthorization\GoogleServerAuthorization\bin\Debug\netcoreapp3.1\GoogleServerAuthorization.dll
+C:\Users\Filip\source\repos\GoogleServerAuthorization\GoogleServerAuthorization\obj\Debug\netcoreapp3.1\GoogleServerAuthorization.csprojAssemblyReference.cache
+C:\Users\Filip\source\repos\GoogleServerAuthorization\GoogleServerAuthorization\obj\Debug\netcoreapp3.1\GoogleServerAuthorization.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\GoogleServerAuthorization\GoogleServerAuthorization\obj\Debug\netcoreapp3.1\GoogleServerAuthorization.AssemblyInfo.cs

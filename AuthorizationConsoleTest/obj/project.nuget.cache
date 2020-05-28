@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "T+u8MMxhOplVkC6CU8FOTDtn9Ue8ah5QCw3SnugqfpwDlDUhrhsE8bLOq0tP5/9m3wLR16a84TcNfUX376F03g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Filip\\source\\repos\\GoogleServerAuthorization\\AuthorizationConsoleTest\\AuthorizationConsoleTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Filip\\.nuget\\packages\\google.apis\\1.45.0\\google.apis.1.45.0.nupkg.sha512",
+    "C:\\Users\\Filip\\.nuget\\packages\\google.apis.androidpublisher.v3\\1.45.0.1963\\google.apis.androidpublisher.v3.1.45.0.1963.nupkg.sha512",
+    "C:\\Users\\Filip\\.nuget\\packages\\google.apis.auth\\1.45.0\\google.apis.auth.1.45.0.nupkg.sha512",
+    "C:\\Users\\Filip\\.nuget\\packages\\google.apis.core\\1.45.0\\google.apis.core.1.45.0.nupkg.sha512",
+    "C:\\Users\\Filip\\.nuget\\packages\\google.apis.oauth2.v2\\1.45.0.1869\\google.apis.oauth2.v2.1.45.0.1869.nupkg.sha512",
+    "C:\\Users\\Filip\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
