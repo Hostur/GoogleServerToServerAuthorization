@@ -10,13 +10,13 @@ To call google's api with appropriate authorization you will find a lot of infor
 http authorization header to make google api calls by a server. In my case it doesn't work. What I'v receive was always 403 with information about not linked application. The problem is that you need to bind authorization data 
 that will be used by a server with your google publisher console and however I'v done it the result was the same.
 
-So what worked for me?
-1. First of all you have to go to your <a href="https://play.google.com/apps/publish/" target="_blank">`Google Play Dev console`</a>.
-2.Go to Settings->API access
-3.In Service Accounts you have to create a publisher one
-4.Role is not so important right now
-5.Furnish New private key (P12) with "notasecret" password
-
+So what worked for me?</br>
+1. First of all you have to go to your <a href="https://play.google.com/apps/publish/" target="_blank">`Google Play Dev console`</a></br>
+2.Go to Settings->API access</br>
+3.In Service Accounts you have to create a publisher one</br>
+4.Role is not so important right now</br>
+5.Furnish New private key (P12) with "notasecret" password</br>
+</br>
 Keep this file secure.
 
 6. In new Service Account click Grant Access and modify permissions however you need.
