@@ -11,7 +11,7 @@ http authorization header to make google api calls by a server. In my case it do
 that will be used by a server with your google publisher console and however I'v done it the result was the same.
 
 So what worked for me?</br>
-1. First of all you have to go to your <a href="https://play.google.com/apps/publish/" target="_blank">`Google Play Dev console`</a></br>
+1. First of all you have to go to your <a href="https://play.google.com/apps/publish/" target="_blank">`Google Play Dev console`</a>
 2.Go to Settings->API access</br>
 3.In Service Accounts you have to create a publisher one</br>
 4.Role is not so important right now</br>
